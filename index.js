@@ -13,5 +13,4 @@ class Listrak {
 
 
 }
-
 module.exports = new Listrak();
