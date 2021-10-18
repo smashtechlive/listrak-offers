@@ -8,9 +8,10 @@ class Listrak {
     }
 
     test() {
-        console.log('jp - hello test');
+        console.log('hello test');
     }
 
 
 }
+
 module.exports = new Listrak();
