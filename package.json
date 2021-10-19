@@ -1,0 +1,19 @@
+{
+  "name": "@realsmashtech/listrak-offers",
+  "version": "1.0.0",
+  "description": "Mapper for offers to events",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/smashtechlive/listrak-offers.git"
+  },
+  "author": "smashtech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smashtechlive/listrak-offers/issues"
+  },
+  "homepage": "https://github.com/smashtechlive/listrak-offers#readme"
+}
